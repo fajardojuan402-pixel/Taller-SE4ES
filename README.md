@@ -1,7 +1,7 @@
 ﻿# SmartRoomController - Taller de Sistemas Embebidos
 
 La documentación completa con la solución al taller, los diagramas de las máquinas de estado, los casos de prueba y las respuestas a las preguntas de análisis se encuentra en el archivo:
-👉 [TALLER_SISTEMAS_EMBEBIDOS.md](TALLER_SISTEMAS_EMBEBIDOS.md)
+[TALLER_SISTEMAS_EMBEBIDOS.md](TALLER_SISTEMAS_EMBEBIDOS.md)
 
 ---
 
